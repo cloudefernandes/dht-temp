@@ -3,6 +3,6 @@ body{
     background-color: blue;
     text-align: center;
     h1{
-        color: rgb(red, green, blue);
+        color: rgb(red, green, rgb(0, 119, 255));
     }
 }
